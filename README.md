@@ -26,3 +26,5 @@ Developed high-fidelity mock-ups for a seamless end-to-end experience:
 
 ## 💡 Impact
 A **data-driven solution** that utilizes strategic reward systems to drive purchase intent and enhance customer retention by converting casual visitors into loyal buyers.
+
+> **Note:** This repository is a professional Business Analysis and Project Management case study. All company names and brand details have been anonymized for confidentiality purposes.
